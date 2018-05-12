@@ -1,0 +1,40 @@
+_repo: Three-Girls-from-School_43138
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tarrant, Percy
+    gutenberg_agent_id: '9732'
+    url: http://www.gutenberg.org/2009/agents/9732
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Mead, L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Meade, Lillie
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+title: Three Girls from School
+url: http://www.gutenberg.org/ebooks/43138
